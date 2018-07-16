@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
 	"\/css\/grayscale-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -860,8 +867,8 @@
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/grayscale.css",
-		"oF": 0,
+		"oAP": "\/css\/grayscale.css",
+		"oF": 2,
 		"oS": 0,
 		"uL": 1
 		},
@@ -14595,7 +14602,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 553226527,
-	"displayValue": "PWebsite",
+	"displayValue": "PersonalWebsite",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-hart",
 	"iconImageWasSetByUser": 0
