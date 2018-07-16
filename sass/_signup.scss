@@ -1,6 +1,6 @@
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, #{fade-out($black, .9)} 0%,#{fade-out($black, .5)} 75%,$black 100%), url('../img/San-Antonio-Skyline-coding.png');
+  background: linear-gradient(to top, #{fade-out($black, .9)} 0%,#{fade-out($black, .5)} 75%,$black 100%),linear-gradient(to bottom, #{fade-out($black, .9)} 0%,#{fade-out($black, .5)} 75%,$black 100%), url('../img/San-Antonio-Skyline-coding.png');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
