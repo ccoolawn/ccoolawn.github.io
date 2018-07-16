@@ -878,7 +878,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-grid-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap-grid-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -888,7 +888,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-grid.min-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap-grid.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -898,7 +898,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-reboot-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap-reboot-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -908,7 +908,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-reboot.min-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap-reboot.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -918,7 +918,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -935,7 +935,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap.min-min.css",
+		"oAP": "\/vendor\/bootstrap\/css\/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1020,7 +1020,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/all-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/all-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1030,7 +1030,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/brands-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/brands-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1040,7 +1040,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/fontawesome-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/fontawesome-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1050,7 +1050,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/regular-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/regular-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1060,7 +1060,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/solid-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/solid-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1070,7 +1070,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/svg-with-js-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/svg-with-js-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1080,7 +1080,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/v4-shims-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/v4-shims-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -1090,7 +1090,7 @@
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/v4-shims.min-min.css",
+		"oAP": "\/vendor\/font-awesome\/css\/v4-shims.min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
