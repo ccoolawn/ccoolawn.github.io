@@ -1,0 +1,40 @@
+// 
+// Global theme styling
+// 
+
+// Scroll padding for all scroll targets on page used with
+// native CSS smooth scrolling
+// 
+// https://caniuse.com/?search=scroll-padding
+
+html {
+    scroll-padding-top: calc(4.5rem - 1px);
+}
+
+body {
+    letter-spacing: $base-letter-spacing;
+}
+
+.bg-black {
+    background-color: $black !important;
+}
+  
+
+.bg-primary {
+    background-color: $primary !important
+}
+  
+
+.text-primary {
+    color: $primary !important;
+}
+  
+#m-text {
+    z-index: 5;
+    margin: 8rem 0 6rem 0;
+}
+  
+#learnAbt {
+    margin-top: 20rem;
+}
+  
